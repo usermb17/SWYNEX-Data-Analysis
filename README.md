@@ -83,6 +83,7 @@ Books	77	851,866	11,063.19	3.04
 Toys	92	839,527	9,125.29	2.90
 Electronics	79	744,760	9,427.34	2.87
 Grocery	67	618,303	9,228.40	2.93
+
 Revenue by Product Category (GMV in Thousands):
 Clothing    [████████████████████████████████] 968K (19.5%)
 Furniture   [███████████████████████████████ ] 935K (18.9%)
@@ -90,6 +91,7 @@ Books       [██████████████████████�
 Toys        [██████████████████████████      ] 840K (16.9%)
 Electronics [████████████████████████        ] 745K (15.0%)
 Grocery     [████████████████████            ] 618K (12.5%)
+
 B. Customer Gender Spending Dynamics
 Gender	Customer Count	Volume Share	Total Spend	Average Spend	Spend Share
 Female	252	50.4%	2,632,213	10,445.29	53.1%
@@ -97,6 +99,7 @@ Male	248	49.6%	2,325,265	9,376.07	46.9%
 Gross Revenue Contribution by Gender:
 Female (53.1%) [███████████████████████████                    ] 2,632,213
 Male   (46.9%) [████████████████████████                       ] 2,325,265
+
 C. Geographic Market Distribution
 Country	Customer Count	Market Share (%)
 Pakistan	92	18.4%
@@ -112,6 +115,7 @@ Bangladesh  (85) [████████████████████�
 Nepal       (81) [████████████████████████████    ] 16.2%
 India       (78) [███████████████████████████     ] 15.6%
 Afghanistan (78) [███████████████████████████     ] 15.6%
+
 D. Customer Satisfaction Ratings (1.0 to 5.0)
 Average Rating by Category:
 Furniture   [████████████████████████████████] 3.20 (Top Performer)
